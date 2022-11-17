@@ -15,8 +15,8 @@ I am Jan Rione Ramos from 9-PRO
 
 >[GOOGLE CLASSROOM](https://classroom.google.com/c/NTI2MjUxMzY4OTc1)
 
-## 📓 Schedule 2TC1:
+## 📓 Schedule T2 C1:
 | DAY 1 | DAY 2 | DAY 3 | DAY 4 |
-| HR |
-| Header      | Title       | Header      | Title       |
-| Paragraph   | Text        | Paragraph   | Text        |
+| ----------- | ----------- | ----------- | ----------- |
+| Homeroom      | Homeroom      | Homeroom      | Homeroom       |
+| P.E.  | Music      | P.E.   | Study Period        |
