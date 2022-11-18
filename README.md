@@ -15,14 +15,14 @@ I am Jan Rione Ramos from 9-PRO
 
 >[GOOGLE CLASSROOM](https://classroom.google.com/c/NTI2MjUxMzY4OTc1)
 
-## 📓 Schedule T2 C1:
+## 📢 Schedule T2 C1:
 |  | DAY 1 | DAY 2 | DAY 3 | DAY 4 | DAY 5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| :7:35 - 8:00  | Homeroom      | Homeroom      | Homeroom      | Homeroom       | Homeroom       |
+| : 7:35 - 8:00  | Homeroom      | Homeroom      | Homeroom      | Homeroom       | Homeroom       |
 | :8:10 - 9:00  | PE / Health	  | Music / Arts	| PE / Health	  | Study Period   |	Science        |
 | :9:10 - 10:00 | English         | Science	        | English       |	English        |	Science        |
 | :10:10 - 11:00 |	English       |	Science       |		Science	     |  English       | 	English       |
-| :11:10 - 12:00 | :L U | N C H | B R | E A K:		|				
+| :11:10 - 12:00 | 	|				
 	Science	Computer		Music | Arts	Computer	Study Period
 	Science	English		Computer	PE | Health	Computer
 	Examen	Examen		Examen		
