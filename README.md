@@ -11,7 +11,7 @@ I am Jan Rione Ramos from 9-PRO
 - My favorite series is [The Good Place](https://www.nbc.com/the-good-place)
 - I love eating and cooking food!
 
-### !!!School Zone!!!
+### !!!  SCHOOL ZONE  !!!
 
 ## 📓 School Related Links:
 > [LMS](https://jhsportal.adnu.edu.ph/)
