@@ -5,7 +5,7 @@ I am Jan Rione Ramos from 9-PRO
  ![baymax](https://user-images.githubusercontent.com/118333491/202359031-00bd0e9a-817c-4d77-8b2a-a0bb6f9fd847.png)
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/lvHZjvIyqsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*favorite song so far*
+
  
 ## ✨ About me:
 - *These are my favorite albums:*
