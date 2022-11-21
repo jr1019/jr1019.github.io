@@ -8,6 +8,7 @@ I am Jan Rione Ramos from 9-PRO
 
  
 ## ✨ About me:
+#
 - *These are my favorite albums:*
 
 Taylor Swift's *"Midnights (3am Edition)"*
@@ -19,7 +20,7 @@ BLACKPINK's *"BORN PINK"*
 
 
 
-
+#
 - I love [Taylor Swift](https://www.taylorswift.com/) and [BLACKPINK](https://www.blackpinkmusic.com/)
 - My favorite movie is [Everything Everywhere all at Once](https://a24films.com/films/everything-everywhere-all-at-once)
 - My favorite series is [The Good Place](https://www.nbc.com/the-good-place)
