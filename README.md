@@ -24,7 +24,7 @@ I am Jan Rione Ramos from 9-PRO
 
 >[GOOGLE CLASSROOM](https://classroom.google.com/c/NTI2MjUxMzY4OTc1)
 
-## 📢 Schedule T2 C1: [UNDER CONSTRUCTION]
+## 📢 Schedule T2 C1: `[UNDER CONSTRUCTION]`
 |  | DAY 1 | DAY 2 | DAY 3 | DAY 4 | DAY 5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 7:35 - 8:00  | Homeroom      | Homeroom      | Homeroom      | Homeroom       | Homeroom       |
