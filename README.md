@@ -10,12 +10,14 @@ I am Jan Rione Ramos from 9-PRO
 ## ✨ About me:
 - *These are my favorite albums:*
 
-*Taylor Swift's "Midnights (3am Edition)"*
+Taylor Swift's *"Midnights (3am Edition)"*
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3lS1y25WAhcqJDATJK70Mq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-*BLACKPINK's "BORN PINK"*
+BLACKPINK's *"BORN PINK"*
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0S4pP8MBY9p7ngFWIZQAJv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 
 - I love [Taylor Swift](https://www.taylorswift.com/) and [BLACKPINK](https://www.blackpinkmusic.com/)
