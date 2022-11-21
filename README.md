@@ -6,10 +6,12 @@ I am Jan Rione Ramos from 9-PRO
  
 ## ✨ About me:
 - *These are my favorite albums* [**1**](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) & [**2**](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P)
-- I love Taylor Swift and BLACKPINK
+- I love [Taylor Swift](https://www.taylorswift.com/) and [BLACKPINK](https://www.blackpinkmusic.com/)
 - My favorite movie is [Everything Everywhere all at Once](https://a24films.com/films/everything-everywhere-all-at-once)
 - My favorite series is [The Good Place](https://www.nbc.com/the-good-place)
 - I love eating and cooking food!
+
+### !!!School Zone!!!
 
 ## 📓 School Related Links:
 > [LMS](https://jhsportal.adnu.edu.ph/)
@@ -18,7 +20,7 @@ I am Jan Rione Ramos from 9-PRO
 
 >[GOOGLE CLASSROOM](https://classroom.google.com/c/NTI2MjUxMzY4OTc1)
 
-## 📢 Schedule T2 C1:
+## 📢 Schedule T2 C1: [UNDER CONSTRUCTION]
 |  | DAY 1 | DAY 2 | DAY 3 | DAY 4 | DAY 5 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 7:35 - 8:00  | Homeroom      | Homeroom      | Homeroom      | Homeroom       | Homeroom       |
