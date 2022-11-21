@@ -27,6 +27,14 @@ BLACKPINK's *"BORN PINK"*
 
 # ⚠️!!!  SCHOOL ZONE  !!!⚠️
 
+### Ateneo De Naga Junior High School Journey
+- [x] 7 - Kostka
+- [x] 8 - Denn
+- [ ] 9 - Pro (Ongoing)
+- [ ] 10 - ???
+
+
+
 ### 📓 School Related Links:
 > [LMS](https://jhsportal.adnu.edu.ph/)
 
