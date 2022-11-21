@@ -11,7 +11,10 @@ I am Jan Rione Ramos from 9-PRO
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3lS1y25WAhcqJDATJK70Mq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- & [**2**](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0S4pP8MBY9p7ngFWIZQAJv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 - I love [Taylor Swift](https://www.taylorswift.com/) and [BLACKPINK](https://www.blackpinkmusic.com/)
 - My favorite movie is [Everything Everywhere all at Once](https://a24films.com/films/everything-everywhere-all-at-once)
 - My favorite series is [The Good Place](https://www.nbc.com/the-good-place)
