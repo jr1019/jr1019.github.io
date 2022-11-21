@@ -7,15 +7,9 @@ I am Jan Rione Ramos from 9-PRO
 ## ✨ About me:
 - *These are my favorite albums* [**1**](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) & [**2**](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P)
 - I love Taylor Swift and BLACKPINK
-
-###BLACKPINK
-
-
-
-
-
-
-
+- My favorite movie is [Everything Everywhere all at Once](https://a24films.com/films/everything-everywhere-all-at-once)
+- My favorite series is [The Good Place](https://www.nbc.com/the-good-place)
+- I love eating and cooking food!
 
 ## 📓 School Related Links:
 > [LMS](https://jhsportal.adnu.edu.ph/)
