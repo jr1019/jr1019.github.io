@@ -12,7 +12,7 @@ I am Jan Rione Ramos from 9-PRO
 - My favorite movie is [Everything Everywhere all at Once](https://a24films.com/films/everything-everywhere-all-at-once)
 - My favorite series is [The Good Place](https://www.nbc.com/the-good-place)
 - I love eating and cooking food!
-- These are my favorite albums:
+- These are my favorite albums this year:
 
 Taylor Swift's *"Midnights (3am Edition)"*
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3lS1y25WAhcqJDATJK70Mq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -20,6 +20,11 @@ Taylor Swift's *"Midnights (3am Edition)"*
 
 BLACKPINK's *"BORN PINK"*
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0S4pP8MBY9p7ngFWIZQAJv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- One of my favorite songs this year:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5odlY52u43F5BjByhxg7wg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 # ⚠️!!!  SCHOOL ZONE  !!!⚠️
