@@ -44,7 +44,7 @@ BLACKPINK's *"BORN PINK"*
 
 >[GOOGLE CLASSROOM](https://classroom.google.com/c/NTI2MjUxMzY4OTc1)
 
->[BLOGSPOT]
+>[BLOGSPOT](https://janrioneramos.blogspot.com/)
 
 ### 📢 Schedule T2 C1: `[UNDER CONSTRUCTION]`
 |  | DAY 1 | DAY 2 | DAY 3 | DAY 4 | DAY 5 |
